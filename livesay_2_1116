@@ -1,0 +1,5 @@
+A string is a functional line of text in Java.  A method works like a
+function, executing when called in code.  System.out.println() is an example
+of a method. The most useful application of methods is for when you have
+repetitive code.  You can call the same method multiple times without having
+to write code for each action.
