@@ -1,0 +1,3 @@
+The process I used to develop my code was looking at the first couple blocks of pre-written code and looking
+at how they use #include.  The pattern was that it called the code I was meant to have when it wanted an LED
+cube pattern.
